@@ -28,7 +28,7 @@ export default class App extends Component<Props> {
           Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
-Nara spinning2
+Nara spinning2sssss
         </Text>
         <Text style={styles.instructions}>
           {instructions}
